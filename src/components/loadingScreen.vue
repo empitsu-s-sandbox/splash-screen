@@ -1,7 +1,7 @@
 <template>
   <div class="splash-screen">
     <div class="wrap">
-      <img src="../25.svg" alt="loading-image">
+      <img src="../assets/25.svg" alt="loading-image">
     </div>
   </div>
 </template>
