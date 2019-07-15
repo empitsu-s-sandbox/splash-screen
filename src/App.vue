@@ -1,11 +1,7 @@
 <template>
   <div id="app">
     <loadingScreen v-if="isLoading"></loadingScreen>
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
+    <div>Hello World!</div>
   </div>
 </template>
 
