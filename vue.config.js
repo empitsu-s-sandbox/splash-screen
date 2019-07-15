@@ -1,4 +1,3 @@
 module.exports = {
-  publicPath: 'splash-screen',
-  outputDir: 'docs',
+  publicPath: '/splash-screen/',
 };
